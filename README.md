@@ -1,10 +1,12 @@
 ## What is jekyll-plugins?
 
-This is a collection of git submodules of jekyll plugin repositories.  These submodules are used to build the index for jekyll-plugins.com.
+This is a collection of [git submodules](http://book.git-scm.com/5_submodules.html) of [jekyll plugin](https://github.com/mojombo/jekyll/wiki/Plugins) repositories.  These submodules are used to build the index for jekyll-plugins.com.
 
 ## How to add a plugin
 
 To add a plugin, you simply need to fork this repo, add it as a submodule, and issue a pull request.  The plugin must meet the guidelines for inclusion.
+
+  $ git submodule add YOUR_REPOSITIORY_HERE
 
 ### Guidelines
 - Repo must be hosted on github
