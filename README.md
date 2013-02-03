@@ -6,7 +6,9 @@ This is a collection of [git submodules](http://book.git-scm.com/5_submodules.ht
 
 To add a plugin, you simply need to fork this repo, add it as a submodule, and issue a pull request.  The plugin must meet the guidelines for inclusion.
 
-  $ git submodule add YOUR_REPOSITIORY_HERE
+```bash
+git submodule add YOUR_REPOSITIORY_HERE
+```
 
 ### Guidelines
 - Repo must be hosted on github
