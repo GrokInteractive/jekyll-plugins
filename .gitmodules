@@ -127,3 +127,6 @@
 [submodule "jekyll-cdn"]
 	path = jekyll-cdn
 	url = git://github.com/zspencer/jekyll-cdn.git
+[submodule "jekyll-redirects"]
+	path = jekyll-redirects
+	url = git://github.com/zspencer/jekyll-redirects.git
