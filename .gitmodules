@@ -124,3 +124,6 @@
 [submodule "jekyll-author-plugin"]
 	path = jekyll-author-plugin
 	url = git@github.com:multunus/jekyll-author-plugin.git
+[submodule "jekyll-swfobject"]
+	path = jekyll-swfobject
+	url = git@github.com:sectore/jekyll-swfobject.git
