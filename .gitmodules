@@ -133,3 +133,6 @@
 [submodule "jekyll-jade"]
 	path = jekyll-jade
 	url = https://github.com/snappylabs/jade-jekyll-plugin.git
+[submodule "jekyll-swfobject"]
+	path = jekyll-swfobject
+	url = git@github.com:sectore/jekyll-swfobject.git
