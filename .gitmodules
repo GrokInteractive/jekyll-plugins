@@ -124,9 +124,13 @@
 [submodule "jekyll-author-plugin"]
 	path = jekyll-author-plugin
 	url = git@github.com:multunus/jekyll-author-plugin.git
+<<<<<<< HEAD
 [submodule "jekyll-cdn"]
 	path = jekyll-cdn
 	url = git://github.com/zspencer/jekyll-cdn.git
 [submodule "jekyll-redirects"]
 	path = jekyll-redirects
 	url = git://github.com/zspencer/jekyll-redirects.git
+[submodule "jekyll-jade"]
+	path = jekyll-jade
+	url = https://github.com/snappylabs/jade-jekyll-plugin.git
