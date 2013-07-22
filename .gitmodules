@@ -136,3 +136,6 @@
 [submodule "jekyll-swfobject"]
 	path = jekyll-swfobject
 	url = git@github.com:sectore/jekyll-swfobject.git
+[submodule "Simple-Jekyll-Search"]
+	path = Simple-Jekyll-Search
+	url = git@github.com:christian-fei/Simple-Jekyll-Search.git
