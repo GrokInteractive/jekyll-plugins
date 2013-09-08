@@ -136,3 +136,6 @@
 [submodule "jekyll-swfobject"]
 	path = jekyll-swfobject
 	url = git@github.com:sectore/jekyll-swfobject.git
+[submodule "jekyll-privately_public"]
+	path = jekyll-privately_public
+	url = git@github.com:brianp/jekyll-privately_public.git
