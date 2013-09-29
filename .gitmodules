@@ -136,3 +136,6 @@
 [submodule "jekyll-swfobject"]
 	path = jekyll-swfobject
 	url = git@github.com:sectore/jekyll-swfobject.git
+[submodule "NoHassle-jekyll"]
+	path = NoHassle-jekyll
+	url = https://github.com/Nicolaidavies/NoHassle-jekyll.git
