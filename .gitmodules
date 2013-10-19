@@ -136,3 +136,6 @@
 [submodule "jekyll-swfobject"]
 	path = jekyll-swfobject
 	url = git@github.com:sectore/jekyll-swfobject.git
+[submodule "pocket-embed-octopress"]
+	path = pocket-embed-octopress
+	url = git@github.com:sotsy/pocket-embed-octopress.git
