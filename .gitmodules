@@ -139,3 +139,6 @@
 [submodule "pocket-embed-octopress"]
 	path = pocket-embed-octopress
 	url = git@github.com:sotsy/pocket-embed-octopress.git
+[submodule "githubrepo-octopress"]
+	path = githubrepo-octopress
+	url = https://github.com/sotsy/githubrepo-octopress
