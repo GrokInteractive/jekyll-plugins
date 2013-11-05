@@ -142,3 +142,6 @@
 [submodule "githubrepo-octopress"]
 	path = githubrepo-octopress
 	url = https://github.com/sotsy/githubrepo-octopress
+[submodule "appbox-octopress"]
+	path = appbox-octopress
+	url = git@github.com:sotsy/appbox-octopress.git
