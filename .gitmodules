@@ -136,3 +136,6 @@
 [submodule "jekyll-swfobject"]
 	path = jekyll-swfobject
 	url = git@github.com:sectore/jekyll-swfobject.git
+[submodule "jekyll-caption-tag"]
+	path = jekyll-caption-tag
+	url = git@github.com:MartinThoma/jekyll-caption-tag.git
