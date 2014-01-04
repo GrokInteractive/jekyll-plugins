@@ -136,7 +136,6 @@
 [submodule "jekyll-swfobject"]
 	path = jekyll-swfobject
 	url = git@github.com:sectore/jekyll-swfobject.git
-<<<<<<< HEAD
 [submodule "Simple-Jekyll-Search"]
 	path = Simple-Jekyll-Search
 	url = git@github.com:christian-fei/Simple-Jekyll-Search.git
@@ -155,8 +154,6 @@
 [submodule "appbox-octopress"]
 	path = appbox-octopress
 	url = git@github.com:sotsy/appbox-octopress.git
-=======
 [submodule "jekyll-caption-tag"]
 	path = jekyll-caption-tag
 	url = git@github.com:MartinThoma/jekyll-caption-tag.git
->>>>>>> b8a4e7620b177bfcef3ed769424be228f7e3dff2
