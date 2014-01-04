@@ -142,3 +142,6 @@
 [submodule "NoHassle-jekyll"]
 	path = NoHassle-jekyll
 	url = https://github.com/Nicolaidavies/NoHassle-jekyll.git
+[submodule "jekyll-privately_public"]
+	path = jekyll-privately_public
+	url = git@github.com:brianp/jekyll-privately_public.git
