@@ -139,3 +139,6 @@
 [submodule "Simple-Jekyll-Search"]
 	path = Simple-Jekyll-Search
 	url = git@github.com:christian-fei/Simple-Jekyll-Search.git
+[submodule "NoHassle-jekyll"]
+	path = NoHassle-jekyll
+	url = https://github.com/Nicolaidavies/NoHassle-jekyll.git
