@@ -145,3 +145,12 @@
 [submodule "jekyll-privately_public"]
 	path = jekyll-privately_public
 	url = git@github.com:brianp/jekyll-privately_public.git
+[submodule "pocket-embed-octopress"]
+	path = pocket-embed-octopress
+	url = git@github.com:sotsy/pocket-embed-octopress.git
+[submodule "githubrepo-octopress"]
+	path = githubrepo-octopress
+	url = https://github.com/sotsy/githubrepo-octopress
+[submodule "appbox-octopress"]
+	path = appbox-octopress
+	url = git@github.com:sotsy/appbox-octopress.git
