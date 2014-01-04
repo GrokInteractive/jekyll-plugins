@@ -154,3 +154,6 @@
 [submodule "appbox-octopress"]
 	path = appbox-octopress
 	url = git@github.com:sotsy/appbox-octopress.git
+[submodule "jekyll-caption-tag"]
+	path = jekyll-caption-tag
+	url = git@github.com:MartinThoma/jekyll-caption-tag.git
