@@ -157,3 +157,6 @@
 [submodule "jekyll-caption-tag"]
 	path = jekyll-caption-tag
 	url = git@github.com:MartinThoma/jekyll-caption-tag.git
+[submodule "jekyll-gallery-tag"]
+	path = jekyll-gallery-tag
+	url = https://github.com/MartinThoma/jekyll-gallery-tag
