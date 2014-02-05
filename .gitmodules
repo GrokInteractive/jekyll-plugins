@@ -160,3 +160,6 @@
 [submodule "jekyll-gallery-tag"]
 	path = jekyll-gallery-tag
 	url = https://github.com/MartinThoma/jekyll-gallery-tag
+[submodule "jekyll-csv_read"]
+	path = jekyll-csv_read
+	url = https://github.com/avillafiorita/jekyll-csv_read.git
