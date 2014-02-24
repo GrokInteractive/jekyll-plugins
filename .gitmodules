@@ -160,3 +160,6 @@
 [submodule "jekyll-gallery-tag"]
 	path = jekyll-gallery-tag
 	url = https://github.com/MartinThoma/jekyll-gallery-tag
+[submodule "jekyll-pages-directory"]
+	path = jekyll-pages-directory
+	url = git@github.com:bbakersmith/jekyll-pages-directory.git
