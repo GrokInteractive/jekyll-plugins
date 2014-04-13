@@ -163,3 +163,6 @@
 [submodule "jekyll-fortune"]
 	path = jekyll-fortune
 	url = https://github.com/jakhead/jekyll-fortune.git
+[submodule "jekyll-git-hash"]
+	path = jekyll-git-hash
+	url = git@github.com:yegor256/jekyll-git-hash.git
