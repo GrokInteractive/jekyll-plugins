@@ -163,3 +163,9 @@
 [submodule "jekyll-fortune"]
 	path = jekyll-fortune
 	url = https://github.com/jakhead/jekyll-fortune.git
+[submodule "jekyll-csv_read"]
+	path = jekyll-csv_read
+	url = https://github.com/avillafiorita/jekyll-csv_read.git
+[submodule "jekyll-datapage_gen"]
+	path = jekyll-datapage_gen
+	url = https://github.com/avillafiorita/jekyll-datapage_gen.git
