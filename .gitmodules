@@ -169,3 +169,6 @@
 [submodule "jekyll-datapage_gen"]
 	path = jekyll-datapage_gen
 	url = https://github.com/avillafiorita/jekyll-datapage_gen.git
+[submodule "CollectionJSON"]
+	path = CollectionJSON
+	url = https://github.com/jdfreeman/CollectionJSON
