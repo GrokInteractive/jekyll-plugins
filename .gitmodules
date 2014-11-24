@@ -169,3 +169,18 @@
 [submodule "jekyll-datapage_gen"]
 	path = jekyll-datapage_gen
 	url = https://github.com/avillafiorita/jekyll-datapage_gen.git
+[submodule "jekyll-galleries"]
+	path = jekyll-galleries
+	url = https://github.com/allenlsy/jekyll-galleries
+[submodule "jekyll-pages-directory"]
+	path = jekyll-pages-directory
+	url = git@github.com:bbakersmith/jekyll-pages-directory.git
+[submodule "jekyll-cleantheweb"]
+	path = jekyll-cleantheweb
+	url = https://github.com/sanjay/jekyll-cleantheweb.git
+[submodule "jekyll-git-hash"]
+	path = jekyll-git-hash
+	url = git@github.com:yegor256/jekyll-git-hash.git
+[submodule "jekyll-webmention_io"]
+	path = jekyll-webmention_io
+	url = https://github.com/aarongustafson/jekyll-webmention_io.git
