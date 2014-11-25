@@ -106,9 +106,6 @@
 [submodule "jekyll-vimeo-plugin"]
 	path = jekyll-vimeo-plugin
 	url = git@github.com:gummesson/jekyll-vimeo-plugin.git
-[submodule "jekyll-buildpack"]
-	path = jekyll-buildpack
-	url = git@github.com:matb33/jekyll-buildpack.git
 [submodule "jekyll-soundcloud"]
 	path = jekyll-soundcloud
 	url = git@github.com:cnunciato/jekyll-soundcloud.git
@@ -124,12 +121,6 @@
 [submodule "jekyll-author-plugin"]
 	path = jekyll-author-plugin
 	url = git@github.com:multunus/jekyll-author-plugin.git
-[submodule "jekyll-cdn"]
-	path = jekyll-cdn
-	url = git://github.com/zspencer/jekyll-cdn.git
-[submodule "jekyll-redirects"]
-	path = jekyll-redirects
-	url = git://github.com/zspencer/jekyll-redirects.git
 [submodule "jekyll-jade"]
 	path = jekyll-jade
 	url = https://github.com/snappylabs/jade-jekyll-plugin.git
@@ -171,4 +162,19 @@
 	url = https://github.com/avillafiorita/jekyll-datapage_gen.git
 [submodule "jekyll-poole"]
 	path = jekyll-poole
-	url = git@github.com:iamcarrico/jekyll-poole.git
+	url = https://github.com/iamcarrico/jekyll-poole.git
+[submodule "jekyll-galleries"]
+	path = jekyll-galleries
+	url = https://github.com/allenlsy/jekyll-galleries
+[submodule "jekyll-pages-directory"]
+	path = jekyll-pages-directory
+	url = git@github.com:bbakersmith/jekyll-pages-directory.git
+[submodule "jekyll-cleantheweb"]
+	path = jekyll-cleantheweb
+	url = https://github.com/sanjay/jekyll-cleantheweb.git
+[submodule "jekyll-git-hash"]
+	path = jekyll-git-hash
+	url = git@github.com:yegor256/jekyll-git-hash.git
+[submodule "jekyll-webmention_io"]
+	path = jekyll-webmention_io
+	url = https://github.com/aarongustafson/jekyll-webmention_io.git
