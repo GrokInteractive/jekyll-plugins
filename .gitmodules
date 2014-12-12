@@ -160,6 +160,9 @@
 [submodule "jekyll-datapage_gen"]
 	path = jekyll-datapage_gen
 	url = https://github.com/avillafiorita/jekyll-datapage_gen.git
+[submodule "jekyll-poole"]
+	path = jekyll-poole
+	url = https://github.com/iamcarrico/jekyll-poole.git
 [submodule "jekyll-galleries"]
 	path = jekyll-galleries
 	url = https://github.com/allenlsy/jekyll-galleries
@@ -175,4 +178,3 @@
 [submodule "jekyll-webmention_io"]
 	path = jekyll-webmention_io
 	url = https://github.com/aarongustafson/jekyll-webmention_io.git
-
