@@ -178,3 +178,6 @@
 [submodule "jekyll-webmention_io"]
 	path = jekyll-webmention_io
 	url = https://github.com/aarongustafson/jekyll-webmention_io.git
+[submodule "jekyll-strava-plugin"]
+	path = jekyll-strava-plugin
+	url = https://github.com/vfalanis/jekyll-strava-plugin.git
